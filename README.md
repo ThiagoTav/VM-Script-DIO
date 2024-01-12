@@ -1,0 +1,1 @@
+sudo ./script-dio.sh
